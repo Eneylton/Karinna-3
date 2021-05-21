@@ -1,0 +1,15 @@
+.card-purple:not(.card-outline)>.card-header {
+    background-color: #161616 !important;
+}
+
+.sidebar-dark-purple .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-purple .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #b9083d;
+    color: #fff;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #3b3a73;
+    border-color: #3b3a73;
+    box-shadow: none;
+}
